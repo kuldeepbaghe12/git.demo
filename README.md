@@ -1,4 +1,5 @@
-# git.demo
-this is my first git demo
-AUTHER , KUNWAR SINGH 
+# DEMO.CLASS
+THIS IS MY FIRST GIT REPORESITIRY
+<dr>
+AUTHER - KUNWAR SINGH 
 
